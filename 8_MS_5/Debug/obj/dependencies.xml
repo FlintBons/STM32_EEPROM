@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\workspace\8_MS_5\stm_lib /I..\..\..\workspace\8_MS_5\stm_lib\inc /I..\..\..\workspace\8_MS_5\cmsis /I..\..\..\workspace\8_MS_5\cmsis_boot /I..\..\..\workspace /I..\..\..\workspace\8_MS_5">
+      <source file="..\..\..\cmsis_boot\stm32f10x.h" lastModified="17947ecc978">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f10x.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="17947eccd60">
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="17947eccd60">
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="17947ecc978">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_cl.c" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5\8_MS_5\cmsis /IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5\8_MS_5\stm_lib\inc /IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5\8_MS_5\cmsis_boot /IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5 /IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5\8_MS_5\stm_lib /IB:\Artyom\8 semestr\Microprocessor sotware\Lab 5\8_MS_5">
+      <source file="..\..\..\cmsis_boot\stm32f10x.h" lastModified="17947ecc495">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f10x.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="17947ecc4b3">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\workspace /I..\..\..\workspace\8_MS_5 - first\cmsis_boot /I..\..\..\workspace\8_MS_5 - first /I..\..\..\workspace\8_MS_5 - first\stm_lib\inc /I..\..\..\workspace\8_MS_5 - first\cmsis /I..\..\..\workspace\8_MS_5 - first\stm_lib">
+      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_cl.c" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IZ:\8_MS_5\cmsis /IZ:\8_MS_5\stm_lib\inc /IZ:\8_MS_5 /IZ:\ /IZ:\8_MS_5\stm_lib /IZ:\8_MS_5\cmsis_boot">
+      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="17947ecc590">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_cl.c" lastModified="17947ecc590">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="17947ecc590">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+</dependencies>

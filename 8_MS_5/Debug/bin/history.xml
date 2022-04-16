@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=8_MS_5.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\8_MS_5 -TC:\CooCox\CoIDE\configuration\ProgramData\8_MS_5/link.ld -g">
+      <target file="8_MS_5.elf" lastModified="179b279204f">
+         <source file="..\obj\system_stm32f10x.o" lastModified="179b218fdaf"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="179b218fe22"/>
+         <source file="..\obj\main.o" lastModified="179b2791e47"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="179b218ff64"/>
+         <source file="..\obj\startup_stm32f10x_cl.o" lastModified="179b218ffa4"/>
+      </target>
+   </processor>
+</history>
